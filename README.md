@@ -24,18 +24,18 @@ The hybrid model consists of the following components:
 Meta-learner: A model that combines the predictions from multiple branches to improve overall forecasting accuracy.
 
 ## Figure:
-![Image](https://github.com/user-attachments/assets/4334b356-52b0-44fc-9be6-30b8a9d7269d)
-![Image](https://github.com/user-attachments/assets/d70fda75-c782-4684-b276-74aac05a0d09)
-![Image](https://github.com/user-attachments/assets/c9698884-1b68-44e0-957d-c1e152ea4c95)
-![Image](https://github.com/user-attachments/assets/6f874c52-36df-4149-a653-033c4b55d0d3)
-![Image](https://github.com/user-attachments/assets/a09e69e1-56f2-42ba-b562-f9c992f6a8d8)
+![Image](https://github.com/user-attachments/assets/4334b356-52b0-44fc-9be6-30b8a9d7269d)  <br />
+![Image](https://github.com/user-attachments/assets/d70fda75-c782-4684-b276-74aac05a0d09)  <br />
+![Image](https://github.com/user-attachments/assets/c9698884-1b68-44e0-957d-c1e152ea4c95)  <br />
+![Image](https://github.com/user-attachments/assets/6f874c52-36df-4149-a653-033c4b55d0d3)  <br />
+![Image](https://github.com/user-attachments/assets/a09e69e1-56f2-42ba-b562-f9c992f6a8d8)  <br />
 ![Image](https://github.com/user-attachments/assets/52b04929-4bf7-429e-bb01-ec67cb267331)
 ![Image](https://github.com/user-attachments/assets/e207481e-0972-4c1c-ba77-de196eaa04bb)
 ![Image](https://github.com/user-attachments/assets/c489951f-0fe4-4309-a914-6f08febced16)
 ![Image](https://github.com/user-attachments/assets/210af363-0704-4cc4-b635-0267a07fa359)
+![Image](https://github.com/user-attachments/assets/2084a7fa-5683-438d-a77c-34d6ab6539e1)
 ![Image](https://github.com/user-attachments/assets/dec0a91c-cada-431a-bf18-59933442d4f2)
 ![Image](https://github.com/user-attachments/assets/8857513f-8f0c-4163-a8a5-af2b676dd7cd)
-![Image](https://github.com/user-attachments/assets/2084a7fa-5683-438d-a77c-34d6ab6539e1)
 
 ## License
 
