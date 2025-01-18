@@ -15,17 +15,6 @@ This repository contains the code and datasets used in the paper for the develop
 - Datasets for training and testing the proposed models.
 - Preprocessing and evaluation scripts to assess the performance of the model. (This part is under development and will be updatet soon.)
 
-## Requirements
-
-- Python 3.8+
-- LightGBM
-- TensorFlow/Keras (for neural network models)
-- Pandas
-- Numpy
-- Scikit-learn
-- Matplotlib
-- Other dependencies as specified in `requirements.txt`
-
 ## Model Architecture
 The hybrid model consists of the following components:
 
@@ -33,10 +22,6 @@ The hybrid model consists of the following components:
 - LightGBM: A gradient boosting framework used for regression tasks, particularly well-suited for large datasets with categorical features.
 - Self-Attention-based Encoder-Decoder Network: A neural network model that uses self-attention mechanisms to capture long-range dependencies in time-series data, suitable for sequential forecasting tasks.
 Meta-learner: A model that combines the predictions from multiple branches to improve overall forecasting accuracy.
-
-## Results
-
-The proposed framework outperforms benchmark models in terms of prediction accuracy. Detailed results are included in the paper.
 
 ## License
 
